@@ -95,7 +95,7 @@ const App = () => {
           <div className="flex-1">
             {!completed ? (
               <section className="flex flex-col gap-32" >
-            <div className="mb-6">
+            <div className="mb-5">
               <div className="text-xl font-semibold mb-2">
                 {current.question}
               </div>
